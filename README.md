@@ -4,4 +4,5 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Café
+- Strogonoff de Frango
+- Pavê
